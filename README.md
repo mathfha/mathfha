@@ -3,11 +3,11 @@ Currently, I am using the Go, Python, and C programming languages, and I am stud
 <!--START_SECTION:waka-->
 
 ```txt
-Python       5 hrs 41 mins         █████████▒░░░░░░░░░░░░░░░   37.47 %
-Go           2 hrs 23 mins         ████░░░░░░░░░░░░░░░░░░░░░   15.76 %
-Other        2 hrs 19 mins         ███▓░░░░░░░░░░░░░░░░░░░░░   15.28 %
-PHP          1 hr 51 mins          ███░░░░░░░░░░░░░░░░░░░░░░   12.20 %
-Markdown     59 mins               █▓░░░░░░░░░░░░░░░░░░░░░░░   06.55 %
+Python          5 hrs 22 mins         ███████▓░░░░░░░░░░░░░░░░░   30.24 %
+Other           3 hrs 58 mins         █████▓░░░░░░░░░░░░░░░░░░░   22.35 %
+Go              2 hrs 35 mins         ███▓░░░░░░░░░░░░░░░░░░░░░   14.56 %
+PHP             1 hr 56 mins          ██▓░░░░░░░░░░░░░░░░░░░░░░   10.88 %
+Markdown        58 mins               █▒░░░░░░░░░░░░░░░░░░░░░░░   05.50 %
 ```
 
 <!--END_SECTION:waka-->
